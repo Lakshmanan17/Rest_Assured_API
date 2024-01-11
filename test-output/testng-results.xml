@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T20:33:59 IST" name="Default suite" finished-at="2023-12-22T20:34:10 IST" duration-ms="10521">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T20:33:59 IST" name="Default test" finished-at="2023-12-22T20:34:10 IST" duration-ms="10521">
+      <class name="Hexa.Rest_Assured_API.TC007_Datadriven_with_Dataprovider">
+        <test-method signature="postnewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Hexa.Rest_Assured_API.TC007_Datadriven_with_Dataprovider@12d4bf7e]" started-at="2023-12-22T20:33:59 IST" name="postnewEmployees" data-provider="empdataprovider" finished-at="2023-12-22T20:34:05 IST" duration-ms="5718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[laksh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewEmployees -->
+        <test-method signature="postnewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Hexa.Rest_Assured_API.TC007_Datadriven_with_Dataprovider@12d4bf7e]" started-at="2023-12-22T20:34:05 IST" name="postnewEmployees" data-provider="empdataprovider" finished-at="2023-12-22T20:34:07 IST" duration-ms="1867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lax]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewEmployees -->
+        <test-method signature="postnewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Hexa.Rest_Assured_API.TC007_Datadriven_with_Dataprovider@12d4bf7e]" started-at="2023-12-22T20:34:07 IST" name="postnewEmployees" data-provider="empdataprovider" finished-at="2023-12-22T20:34:10 IST" duration-ms="2879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lakshmi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postnewEmployees -->
+      </class> <!-- Hexa.Rest_Assured_API.TC007_Datadriven_with_Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
